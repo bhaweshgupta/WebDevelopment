@@ -1,6 +1,9 @@
 body {
   background: grey;
 }
-.myclass {
-  font-size: 4rem;
+.large {
+  font-size: 5rem;
+}
+.fine {
+  font-family: Arial, Helvetica, sans-serif;
 }
