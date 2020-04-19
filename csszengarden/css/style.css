@@ -1,0 +1,17 @@
+h1 {
+  color: #0a946a;
+  padding: 30px;
+  margin: 0 auto;
+  margin-top: 300px;
+  text-align: center;
+  width: 300px;
+  font-size: 3em;
+}
+body {
+  background: url('../images/cat-sleep.jpeg') center center no-repeat fixed;
+  background-size: cover;
+  font-family: 'Indie Flower', cursive;
+}
+div {
+  background-color: hotpink;
+}
