@@ -1,0 +1,29 @@
+a:link,
+a:visited {
+  background-color: yellowgreen;
+  color: white;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a :hover {
+  background-color: pink;
+}
+a:visited {
+  background-color: purple;
+}
+
+div {
+  height: 30px;
+  background-color: black;
+}
+.pink {
+  height: 30px;
+
+  background-color: pink;
+}
+#red {
+  height: 20px;
+  background-color: red;
+}
