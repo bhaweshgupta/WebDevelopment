@@ -1,0 +1,21 @@
+div {
+  margin: 0;
+  padding: 0;
+  border: none;
+  height: 400px;
+}
+h1 {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+p {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.center {
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 250px;
+}
